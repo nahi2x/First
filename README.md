@@ -1,4 +1,4 @@
-# Nahum's Python Project
+# Mulugeta's Python Projects
 
 This repository contains my Python learning projects.
 
